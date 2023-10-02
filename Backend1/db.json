@@ -1,0 +1,16 @@
+{
+  "Emp": [
+    {
+      "name": "Adesh",
+      "sal": "500000",
+      "company": "Mic",
+      "id": 1
+    },
+    {
+      "name": "Sanjay",
+      "sal": "1000000",
+      "company": "BMW",
+      "id": 2
+    }
+  ]
+}
